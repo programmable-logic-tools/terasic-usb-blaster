@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Matthias)(type Legacy)(uri ${KIPRJMOD}/lib/symbols.lib)(options "")(descr ""))
+)
